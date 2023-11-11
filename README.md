@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Teeravit Pisitkalak
 ===========================================================================================================================================
 
-Web Developer And Designer
+Web Developer and Designer
 --------------------------
 
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development
